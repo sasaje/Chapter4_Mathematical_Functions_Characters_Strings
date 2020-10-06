@@ -1,4 +1,4 @@
-/*
+package Assignment4_2;/*
  * Developed by Sara Sandager (sara590x@edu.easj.dk)
  * Licensed under the MIT License
  * 06/10/2020
@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 
-public class Assignment4_2 {
+public class GreatCircleDistance {
     // Great circle distance
 
     public static void main(String[] args) {
